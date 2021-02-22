@@ -20,48 +20,51 @@
 
 # 산업기능요원을 채용하거나, 산업기능요원이 재직중인 회사
 
-- 뤼이드 (산타토익)
-- 비바리퍼블리카 (토스) [https://blog.toss.im/tag/%EB%B9%84%EB%B0%94%EB%A6%AC%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%B9%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90/](https://blog.toss.im/tag/비바리퍼블리카-개발자/)
-- 봉봉
-- 빙글 https://medium.com/vingle-tech-blog
-- 마이리얼트립
-- 케어랩스 (굿닥, 바비톡)
-- 왓챠 https://team.watcha.com/blog/
-- 번개장터 (셀잇)
-- 에이블리코퍼레이션 (에이블리)
-- 모젯 (정오의데이트)
-- 넥스트매치 (아만다)
-- 레이니스트 (뱅크샐러드) https://medium.com/rainist-engineering
-- 피플펀드컴퍼니 https://tech.peoplefund.co.kr/
-- 코인원
-- 오픈서베이
-- 크몽
-- 에잇퍼센트
-- 하이퍼커넥트 (아자르) https://hyperconnect.github.io/
-- 리디 (리디북스) https://www.ridicorp.com/blog/
-- 우아한형제들 (배달의민족) http://woowabros.github.io/
-- 데브시스터즈 (쿠키런)
 - VCNC (비트윈)
-- 헬프미
-- 스포카 (도도) https://spoqa.github.io/
-- 크로키닷컴 (지그재그) https://devblog.croquis.com/ko/
-- 엑스엘게임즈 (아키에이지) https://xlgames.recruiter.co.kr/app/jobnotice/list
-- 버킷플레이스 (오늘의집)
-- 마크애니 http://www.markany.com/kr/blog/
-- 펍지 (배틀그라운드) https://careers.pubg.com/#/ko/seoul
-- 마인즈랩 (마음AI) https://mindslab.ai
-- 펜타시큐리티시스템 https://pentasecurity.co.kr
-- 마이뮤직테이스트 https://team.mymusictaste.com/recruit
-- 조이코퍼레이션(채널톡, 워크인사이트) https://zoyi.co/jobs
-- 파이랩 https://pilab.co/
-- 센드버드 (SendBird) https://sendbird.com/careers
-- 당근마켓 https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0
-- 위시켓 
+- 넥스트매치 (아만다)
+- [당근마켓](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
+- [데브시스터즈](https://careers.devsisters.com/) (쿠키런)
+- 두나무
 - 드라마앤컴퍼니
 - 띵스플로우
+- [레이니스트](https://medium.com/rainist-engineering) (뱅크샐러드)
+- 뤼이드 (산타토익)
+- [리디](https://www.ridicorp.com/blog/) (리디북스)
+- 마이리얼트립
+- [마이뮤직테이스트](https://team.mymusictaste.com/recruit)
+- [마인즈랩](https://mindslab.ai) (마음AI)
+- [마크애니](http://www.markany.com/kr/blog/)
+- 모젯 (정오의데이트)
+- 버킷플레이스 (오늘의집)
+- 번개장터 (셀잇)
+- [베이글코드](https://bagelcode.recruiter.co.kr/appsite/company/index)
+- 봉봉
+- [비바리퍼블리카](https://blog.toss.im/tag/%EB%B9%84%EB%B0%94%EB%A6%AC%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%B9%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90/) (토스)
+- [빙글](https://medium.com/vingle-tech-blog)
+- [센드버드](https://sendbird.com/careers) (SendBird)
+- [스포카](https://spoqa.github.io/) (도도)
+- 에이블리코퍼레이션 (에이블리)
+- 에잇퍼센트
+- 오픈서베이
+- [와탭](https://www.whatap.io/ko/careers/)
+- [왓챠](https://team.watcha.com/blog/)
+- [우아한형제들](http://woowabros.github.io/) (배달의민족)
+- 위시켓
+- [조이코퍼레이션](https://zoyi.co/jobs) (채널톡, 워크인사이트)
+- 케어랩스 (굿닥, 바비톡)
 - 코드스테이츠
-- 두나무
+- 코인원
+- [크로키닷컴](https://devblog.croquis.com/ko/) (지그재그)
+- 크몽
+- [파이랩](https://pilab.co/)
 - 팩토리얼게임즈
+- [펍지](https://careers.pubg.com/#/ko/seoul) (배틀그라운드)
+- [펜타시큐리티시스템](https://pentasecurity.co.kr)
+- [피플펀드컴퍼니](https://tech.peoplefund.co.kr/)
+- [하이퍼커넥트](https://hyperconnect.github.io/) (아자르)
+- 헬프미
+- [비트바이트](https://plkey.app) (플레이키보드)
+- [CHEQUER](https://www.chequer.io/) (QueryPie, SQLGate)
 
 
 # 복무만료 후 계속 근무업체
@@ -102,12 +105,32 @@
 - 자유롭게 PR을 주시면 감사하겠습니다.
 
 ## 채용 공고 포맷
-- [채용시까지] Foo.Bar 채용
-    - 분야 : iOS, Android, Server
+- [채용시까지] 데브시스터즈 채용
+    - 분야 : Server, Data Scientist, DW, Data
     - 보충역 : 편입 가능 / 전직 가능
     - 현역 : 재배정 지원 불가 / 전직 가능
-    - [기술 블로그](https://foo.bar)
-    - [채용공고](https://foo.bar)
+    - [기술 블로그](https://tech.devsisters.com/)
+    - [채용공고](https://careers.devsisters.com/)
+
+- [채용시까지] 모젯 채용
+    - 분야 : Server 3년차 이상 / 안드로이드 신입 이상 / iOS 신입 이상
+    - 보충역 : 편입 가능 / 전직 가능
+    - 현역 : 전직 가능
+    - [채용공고](https://www.wanted.co.kr/company/419)
+
+- [채용시까지] 와탭 채용
+  - 분야 : Front-end (React.js) 2년차 이상, Server 3년차 이상
+  - 보충역 : 편입 가능 / 전직 가능
+  - 현역 : 전직 가능
+  - [기술 블로그](https://www.whatap.io/ko/blog/main/)
+  - [채용공고](https://www.wanted.co.kr/company/123)
+    
+
+- [채용시까지] 비트 바이트 채용
+    - 분야: iOS Developer
+    - 보충역: 편입 가능 / 전직 가능
+    - 현역: 전직 가능
+    - [채용공고](https://www.rocketpunch.com/jobs/68593)
 
 # 면접 준비 자료
 
@@ -202,6 +225,37 @@ https://work.mma.go.kr/caisBYIS/faq/BYITFAQSS.do;jsessionid=vMxuaHbMJAbgTHl5Ql0j
 - 2019년 기준 2018년 9월 1일부터 2019년 8월 31일간 보충역을 4명 편입시킨 업체는, 2019년 10월중에 현역을 한 명 편입시킬 수 있다.
 - 2020년부터 현역당 추가배정은 3명당 1명, 시점은 2020년 1월, 기준시기는 4개월로 추가 확대되었다. (https://www.mma.go.kr/board/boardView.do?gesipan_id=18&gsgeul_no=1502522&pageIndex=1&searchCondition=&searchKeyword=&pageUnit=10&mc=usr0000053&jbc_gonggibodo=16)
 
+# 산업기능요원 현역(1급~3급) 대학생 편입
+* 특성화고 졸업자에게 우선적으로 배정되는 TO가 남으면 대학생 현역자도 신청을 받을 수 있다. 이 방법으로 매년 100명 이하의 대학생 산업기능요원이 편입했다.
+* 대학교 관련학과 복수전공/부전공 '수료 (4년)' 단일전공 '4학기 수료(2년)'가 필요하다.
+* 자격증으로 대학교 졸업자/수료자는 '정보처리기사', 재학생/휴학생은 '정보처리산업기사'가 필요하다.
+
+## 편입 일정 (2019년 기준)
+* 19.10.16~10.25
+    * 재배정 희망 업체 신청을 받기 시작함
+* 19.11.11~11.13
+    * 신청 업체가 TO보다 많아, 편입가능한 회사와 그렇지 못한 회사가 발표됨
+* 19.11.15
+    * 관련 서류를 구비한 편입자가 편입 성공하여, 군 복무를 시작함
+
+## 편입 조건
+* 10월 말에 편입을 원하는 회사에 `정규직`으로 재직하고 있어야 한다.
+    * 수습기간을 고려하여, 그 이전에 구직을 하는 것이 필수이다.
+* 업체의 복무관리 점수로 정렬하므로, 업체가 복무관리 점수가 높을수록 편입확률이 올라간다.
+    * `근로우수업체 평가기준`에 따른다.
+    * 근로우수업체 평가기준은 `계속근무자(30점)`, `훈련소 임금지급(20점)` 으로 이루어져 있다.
+    * 병역일터의 `복무만료 후 계속 근무업체`의 목록으로 업체의 평가기준을 추정해볼 수 있다. https://work.mma.go.kr/caisBYIS/usby/callBYITUSByeongYeokEC.do?menu_id=m_m8_3&usbyjjeopche_gbcd=3
+    * 병역일터의 '병역지정업체검색'의 `현역복무인원`, `보충역복무인원` 으로 `훈련소 임금지급`의 가능성을 추정해볼 수 있다.
+        * `현역/보충역복무인원` : 그 회사에 현재 일하고 있는 현역/보충역 복무자. 전직을 하거나, 복무만료를 하면 줄어든다. 반대로 전직을 오거나 신규 편입되면 늘어난다.
+        * `현역편입인원` : 최근에 그 업체에 편입에 성공한 복무자의 수. 편입 성공하고 1년 정도가 지나면, 다시 0명으로 줄어드는 것 같다.
+
+### 산업기사 / 기사를 늦게 취득해도 편입이 가능
+* 10.16~10.25 시기에는 병무청에 서류로 제출하는 것은 `재직증명서` 뿐이다.
+* 편입가능 업체가 발표된 19.11.11~11.13 후에 에 `기사 / 산업기사 자격증`을 제출하는 것이다. 편입 신청을 하는 10월에는 편입자가 딱히 기사를 따지 않은 상태여도 된다.
+* 편입 발표가 나고 그 해 안에만 편입을 하면 된다. 따라서, 편입희망자가 산업기사 / 기사를 취득하지 않았어도 10월에 일단 TO를 업체가 신청하고, 11월이 아닌 12월 (산업기사/기사 4회차 발표) 에 자격증을 취득하여 뒤늦게 서류를 제출해도 편입이 가능하다고 한다.
+* 병무청으로부터 러프하게만 확인한 정보이므로, 가능함을 보장하지는 않는다. 자세한 사항은 병무청에 각자 확인하고, 불가피한 사정이 없으면 10월 이전에 기사 / 산업기사 자격을 취득하도록 한다.
+
+
 # 역대 산업기능요원 현역 재배정 TO 역사
 
 ## 2017년
@@ -250,6 +304,9 @@ https://work.mma.go.kr/caisBYIS/faq/BYITFAQSS.do;jsessionid=vMxuaHbMJAbgTHl5Ql0j
 - 22점 업체, 1명 신청, 1명 편입 성공
 - 0점 업체, 2명 신청, 모두 편입 실패
 
+## 2020년
+신청한 모든 편입자가 모두 편입에 성공했다.
+
 ## 근로여건 우수업체 평가기준
 ### 복무만료 후 계속 근무업체 (30점)
 - 산업기능요원 복무만료 후 1년 이상 계속근무 업체
@@ -260,6 +317,11 @@ https://work.mma.go.kr/caisBYIS/faq/BYITFAQSS.do;jsessionid=vMxuaHbMJAbgTHl5Ql0j
 ### 현역 배정인원 조기편입 업체 (10점)
 - 1명 2점, 2명 4점, 3명 6점, 4명 8점, 5명이상 10점
 
+# 편입 취소자의 잔여복무기간 차별 변경
+https://blog.naver.com/loveacrc/222097441220
+- 현재 편입취소 시, 인정복무기간이 1/4라서 복무일이 크게 줄어드지 않는 불이익이 있었다.
+- 법령에 정한 사유로 병역의무자 편입이 취소되면, 전체 복무기간 중 실제 복무한 기간의 비율만큼 인정하도록 개선했다.
+- 현역 산업기능요원이 편입취소 시점 기준으로 남은 복무기간이 6개월 미만이면, 사회복무요원으로 근무하도록 변경된다.
 
 # 국외여행
 
@@ -339,6 +401,7 @@ https://work.mma.go.kr/caisBYIS/faq/BYITFAQSS.do;jsessionid=vMxuaHbMJAbgTHl5Ql0j
 # 쓸만한 앱
 
 - 전역일계산기 https://play.google.com/store/apps/details?id=com.guninnuri.guninday&hl=ko
+- 군돌이 https://play.google.com/store/apps/details?id=com.goondori&hl=ko
 
 # 커뮤니티
 
